@@ -24,6 +24,8 @@ TI.20.A.1<br>
 
 `$ git config --global user.name “nama_user"`
 
+![username](https://user-images.githubusercontent.com/72909071/97097530-f91f7200-16a3-11eb-9401-d266a9ae6e00.png)
+
 
 
 `$ git config --global user.email “nama_user”`
