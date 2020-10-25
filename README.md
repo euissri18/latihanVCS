@@ -27,9 +27,9 @@ TI.20.A.1<br>
 ![username](https://user-images.githubusercontent.com/72909071/97097530-f91f7200-16a3-11eb-9401-d266a9ae6e00.png)
 
 
-
 `$ git config --global user.email “nama_user”`
 
+![user](https://user-images.githubusercontent.com/72909071/97097532-fae93580-16a3-11eb-8804-4330c05938f5.png)
 
 ### Perintah Dasar Git
 
