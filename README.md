@@ -97,3 +97,22 @@ $ cd latihan1``
 
 ![Screenshot 2020-10-25 094233](https://user-images.githubusercontent.com/72909071/97097722-aabfa280-16a6-11eb-82aa-d3d6ef29dcd5.png)
 
+### Menambahkan Remote Repository
+
+* Remote Repository merupakan repository server yang akan digunakan untuk menyimpan setiap perubahan pada local repository, sehingga dapat diakses oleh banyak user.
+* Untuk menambahkan remote repository server, gunakan perintah *git remote add origin [url]*
+`$ git remote add origin https://github.com/noval1802/LatihanVCS.git`
+
+
+### Push (Mengirim perubahan ke server)
+
+* Untuk mengirim perubahan pada local repository ke server gunakan perintah git push.
+`$ git push -u origin master`
+* Perintah ini akan meminta memasukkan username dan password pada akun github.com
+
+### Clone Repository
+
+* Clone repository, pada dasarnya adalah meng-copy repository server dan secara otomatis membuat satu direktory sesuai dengan nama repositorynya (working directory).
+* Untuk melakukan cloning, gunakan perintah `git clone [url]`
+
+
