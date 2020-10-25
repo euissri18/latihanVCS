@@ -67,3 +67,22 @@ $ cd latihan1``
 * disini kita akan coba buat satu file bernama README.md (text file)
 `$ echo “# Latihan 1” >> README.md`
 * File *README.md* berhasil dibuat.
+
+### Menambahkan File baru pada repository
+
+* Untuk menambahkan file yang baru saja dibuat tersebut gunakan perintah git add.
+`$ git add README.md`
+* File *README.md* berhasil ditambahkan.
+
+### `Commit` (Menyimpan perubahan ke database)
+
+* Untuk menyimpan perubahan yang ada kedalam database repository local, gunakan perintah git commit -m “komentar commit”
+`$ git commit -m “File pertama saya”`
+* Perubahan berhasil disimpan.
+
+### Membuat repository server
+
+* Server reopsitory yang akan kita gunakan adalah (http://github.com)
+* Anda harus membuat akun terlebih dahulu.
+* Pada laman github, klik tombol start a project, atau
+* Dari menu (icon +) klik New Repository
